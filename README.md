@@ -13,3 +13,6 @@ snake game 2
 | s                 |  set direction to left side   | do only on the game|
 | d                 |  set direction to right side  | do only on the game|
 | esc               |         quit the game         | do only on the game|
+
+***This is information for this game.***
+> Don't press number and enter playing the game
